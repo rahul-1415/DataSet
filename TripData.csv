@@ -1,0 +1,11 @@
+Time,Place,Transport,Income,Trip
+Morning,Chennai,Bus,High,No
+Afternoon,Chennai,Bus,High,No
+Evening,Hyderabad,Bus,High,Yes
+Evening,Bangalore,Train,High,Yes
+Afternoon,Bangalore,Flight,Normal,Yes
+Morning,Bangalore,Flight,Normal,No
+Afternoon,Hyderabad,Flight,Normal,Yes
+Evening,Chennai,Train,High,No
+Morning,Chennai,Flight,Normal,Yes
+Afternoon,Bangalore,Train,Normal,Yes
